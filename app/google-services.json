@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1087741572101",
+    "firebase_url": "https://shopping-new-abcda.firebaseio.com",
+    "project_id": "shopping-new-abcda",
+    "storage_bucket": "shopping-new-abcda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087741572101:android:e2bd993febd5e09c85186c",
+        "android_client_info": {
+          "package_name": "com.app.appremote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087741572101-p3gmg7prj6is4iltn97f9hp8hu0uvgvk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATiAcqYX1Pwvq74bvrDczQyTUFnvU2mNY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087741572101-p3gmg7prj6is4iltn97f9hp8hu0uvgvk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
